@@ -3,7 +3,7 @@
 
 🔍 Passionate about uncovering insights through data.  
 📊 Experienced in Pandas, Matplotlib, and Seaborn.  
-📩 Reach me at: [LinkedIn](www.linkedin.com/in/mona-sayyadi-aa489b81)  
+📩 Reach me at: [LinkedIn](www.linkedin.com/in/sayyadi-mona)  
 
 ---
 If you find my projects useful, give them a ⭐!
